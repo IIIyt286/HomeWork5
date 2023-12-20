@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Geek\\C#\\seminars\\homework5\\homework5.csproj": {}
+    "G:\\Geek\\C#\\seminars\\HomeWwork\\homework5.csproj": {}
   },
   "projects": {
-    "G:\\Geek\\C#\\seminars\\homework5\\homework5.csproj": {
+    "G:\\Geek\\C#\\seminars\\HomeWwork\\homework5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Geek\\C#\\seminars\\homework5\\homework5.csproj",
+        "projectUniqueName": "G:\\Geek\\C#\\seminars\\HomeWwork\\homework5.csproj",
         "projectName": "homework5",
-        "projectPath": "G:\\Geek\\C#\\seminars\\homework5\\homework5.csproj",
+        "projectPath": "G:\\Geek\\C#\\seminars\\HomeWwork\\homework5.csproj",
         "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
-        "outputPath": "G:\\Geek\\C#\\seminars\\homework5\\obj\\",
+        "outputPath": "G:\\Geek\\C#\\seminars\\HomeWwork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
